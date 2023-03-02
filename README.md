@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincent1949
 - 👀 I’m interested in ...all aspects of technology
-- 🌱 I’m currently learning ...Python 3
+- 🌱 I’m currently learning ...Python 3, ChatGPT and D-ID’s generative AI technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vincent.mico@iinet.net.au
 
